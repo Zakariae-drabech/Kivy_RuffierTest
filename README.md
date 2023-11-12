@@ -8,7 +8,7 @@ After the end of the strain, the pulse is calculated again:  the number of pulsa
 
 - ## Instruction Screen
 <a href="URL">
-    <img src="image/InstrScr.png" align="left" height="48" width="48" >
+    <img src="image/InstrScr.png" align="left" height="50%" width="50%" >
 </a>
 
 - ## Pulse Screen
