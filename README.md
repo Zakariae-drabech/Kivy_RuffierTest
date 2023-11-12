@@ -7,7 +7,7 @@ After the end of the strain, the pulse is calculated again:  the number of pulsa
 
 
 - ## Instruction Screen
-![Instruction Screen](image/InstScr.png)
+![Instruction Screen](image/InstrScr.png)
 
 - ## Pulse Screen
 ![pulse1 Screen](image/pulse1.png)
