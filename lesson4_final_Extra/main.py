@@ -320,9 +320,9 @@ class Result(Screen):
 class HeartCheck(App):
     def build(self):
         sm = ScreenManager(transition=SwapTransition())
-        #sm.add_widget(InstrScr(name='instr'))
-        #sm.add_widget(PulseScr(name='pulse1'))
-        #sm.add_widget(CheckSits(name='sits'))
+        sm.add_widget(InstrScr(name='instr'))
+        sm.add_widget(PulseScr(name='pulse1'))
+        sm.add_widget(CheckSits(name='sits'))
         sm.add_widget(PulseScr2(name='pulse2'))
         sm.add_widget(Result(name='result'))
         return sm
